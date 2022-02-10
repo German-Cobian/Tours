@@ -1,7 +1,17 @@
 import Tour from './Tour';
 
-const Tours = () => {
-  return <h2>Single Tour Component</h2>
+const Tours = ({tours}) => {
+  return (
+    <section>
+      <div className="title">
+        <h2>Our Tours </h2>
+        <div className="underline"></div>
+      </div>
+      {tours.map((tour) => {
+        return <Tour key={tour.id} {...tour}/>
+      })}
+    </section>
+  )
 };
 
 export default Tours;
