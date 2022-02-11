@@ -1,6 +1,6 @@
 import Tour from './Tour';
 
-const Tours = ({tours}) => {
+const Tours = ({tours, removeTour}) => { // "removeTour" added in this feature
   return (
     <section>
       <div className="title">
@@ -8,10 +8,12 @@ const Tours = ({tours}) => {
         <div className="underline"></div>
       </div>
       {tours.map((tour) => {
-        return <Tour key={tour.id} {...tour}/>
+        return <Tour key={tour.id} {...tour} removeTour={removeTour}/>
       })}
     </section>
   )
 };
+
+// "removeTour={removeTour}"" added to Return "<Tour />" element in this feature 
 
 export default Tours;
