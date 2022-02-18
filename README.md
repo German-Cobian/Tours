@@ -1,9 +1,9 @@
 # Tours
 
-> "Tours" is a simple app that fetches info on tours packages from an API, displays it (destination, info, price, and an image). It also allows for the user to toggle between more and less information on display, and to clear away all the data of a specific tour on the click of a button. The app is based on the eponimous project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
+> "Tours" is a simple app that fetches info on tours packages from an API (destination, info, price, and an image) displays it . It also allows for the user on the click of a button to toggle between more and less information on display, and to clear away all the data of a specific tour. The app is based on the eponimous project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
  
-### LiveDemo
-
+![Tours](/public/tours-hide-info.png?raw=true "Tours display")
+![Tours](/public/tours-show-info.png?raw=true "Tours display")
 
 ### Setup and Install
 
