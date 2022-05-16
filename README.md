@@ -4,7 +4,7 @@ A simple React app that fetches info on tours packages from an API (destination,
 
 ![Tours](/public/tours-hide-info.png?raw=true "Tours display") 
 
-...to obtain more info on a specific tour. At that point in the display the user can choose to go back to the original display with less information on that specific tour, by clicking "Show Less", or to clear away all the data of a specific tour.
+...to obtain more info on a specific tour. At that point in the display the user can choose to go back to the original display with less information on that specific tour, by clicking "Show Less", or to clear away all the data of a specific tour by clicking "Not Interested".
 
 ![Tours](/public/tours-show-info.png?raw=true "Tours display")
 
