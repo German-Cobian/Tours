@@ -1,9 +1,14 @@
 # Tours
 
-> "Tours" is a simple app that fetches info on tours packages from an API (destination, info, price, and an image) displays it . It also allows for the user on the click of a button to toggle between more and less information on display, and to clear away all the data of a specific tour. The app is based on the eponimous project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
- 
-![Tours](/public/tours-hide-info.png?raw=true "Tours display")
+A simple React app that fetches info on tours packages from an API (destination, info, price, and an image and displays it. It also allows for the user on the click of a link (Read More)...
+
+![Tours](/public/tours-hide-info.png?raw=true "Tours display") 
+
+...to obtain more info on a specific tour. At that point in the display the user can choose to go back to the original display with less information on that specific tour, by clicking "Show Less", or to clear away all the data of a specific tour.
+
 ![Tours](/public/tours-show-info.png?raw=true "Tours display")
+
+The app is based on the eponimous project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
 
 ### Setup and Install
 
@@ -17,18 +22,18 @@
 
 ## Built With
 
-* Semantic HTML
+* HTML
+* CSS
 * JavaScript
 * React
 * Github workflow
-* Linters(stylelint, Webhint, eslint)
 
 
 ## Author
 
 👤 **German Cobian**
 * GitHub: [@German Cobian](https://github.com/German-Cobian)
-* Twitter: [@GermanCobian1](https://twitter.com/GermanCobian1)
+* Twitter: [@GermanCobian2](https://twitter.com/GermanCobian2)
 * LinkedIn: [@German Cobian](https://www.linkedin.com/in/german-cobian/)
 
 ## 🤝 Contributing
@@ -43,8 +48,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- freeCodeCamp.org
-- Code reviewer(s).
+Guidelines for this tutorial supplied by freeCodeCamp.org, specifically in their [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) tutorial.
 
 ## 📝 License
 
