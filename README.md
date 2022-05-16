@@ -24,18 +24,18 @@ The app is based on the eponimous project that appears in the tutorial [Code 15 
 
 ## Built With
 
-* Semantic HTML
+* HTML
+* CSS
 * JavaScript
 * React
 * Github workflow
-* Linters(stylelint, Webhint, eslint)
 
 
 ## Author
 
 👤 **German Cobian**
 * GitHub: [@German Cobian](https://github.com/German-Cobian)
-* Twitter: [@GermanCobian1](https://twitter.com/GermanCobian1)
+* Twitter: [@GermanCobian2](https://twitter.com/GermanCobian2)
 * LinkedIn: [@German Cobian](https://www.linkedin.com/in/german-cobian/)
 
 ## 🤝 Contributing
